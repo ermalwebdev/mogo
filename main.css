@@ -941,7 +941,7 @@ footer {
    display: block;
   }
   .fa-x {
-display: none!important;
+display: none;
 }
   .creative-template h1 {
     margin-top: 1em;
@@ -1099,7 +1099,7 @@ display: none!important;
    display: block;
   }
  .fa-x {
-display: none!important;
+display: none;
 }
   .selections {
     padding: 2em 0;
