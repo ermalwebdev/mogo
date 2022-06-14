@@ -34,7 +34,7 @@ hamburger.addEventListener("click", function () {
     closeIcon.style.display = "none";
   } else {
     menuMobile.classList.add("showMenu");
-    closeIcon.style.display = "block";
+    closeIcon.style.display = "block!important";
     openIcon.style.display = "none";
   }
 });
