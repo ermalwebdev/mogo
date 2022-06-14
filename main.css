@@ -55,6 +55,7 @@ ul {
   font-size: 2em;
 }
 .logo-menu {
+  padding: 1em 0;
   position: relative;
   width: 100%;
   align-items: center;
