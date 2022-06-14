@@ -46,6 +46,9 @@ ul {
 .hamburger {
   display: none;
 }
+.closeIcon {
+ display: none;
+}
 .button-hamburger {
   background-color: transparent;
   border: none;
