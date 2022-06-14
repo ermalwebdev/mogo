@@ -135,9 +135,7 @@ ul {
 .closeIcon {
   display: none;
 }
-.fa-x {
-display: none;
-}
+
 .btn-selection:hover {
   border-color: #f38181 !important;
 }
@@ -940,9 +938,7 @@ footer {
   .hamburger { 
    display: block;
   }
-  .fa-x {
-display: none!important;
-}
+ 
   .creative-template h1 {
     margin-top: 1em;
     font-size: 2em;
@@ -1098,9 +1094,7 @@ display: none!important;
 .hamburger { 
    display: block;
   }
- .fa-x {
-display: none!important;
-}
+
   .selections {
     padding: 2em 0;
     flex-direction: column;
