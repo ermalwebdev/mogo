@@ -941,7 +941,9 @@ footer {
   .hamburger { 
    display: block;
   }
- 
+ .closeIcon {
+ display: none;
+}
   .creative-template h1 {
     margin-top: 1em;
     font-size: 2em;
@@ -1097,7 +1099,9 @@ footer {
 .hamburger { 
    display: block;
   }
-
+.closeIcon {
+ display: none;
+}
   .selections {
     padding: 2em 0;
     flex-direction: column;
