@@ -43,7 +43,9 @@ ul {
   letter-spacing: 2px;
   text-decoration: none;
 }
-
+.hamburger {
+  display: none;
+}
 .button-hamburger {
   background-color: transparent;
   border: none;
