@@ -23,7 +23,7 @@ const buttonsRepresent = document.querySelectorAll(
 const listHeaderItems = document.querySelectorAll(".list-top-items");
 const menuMobile = document.querySelector(".menu-mobile");
 const hamburger = document.querySelector(".hamburger");
-const closeIcon = document.querySelector(".closeIcon");
+const closeIcon = document.querySelector(".fa-x");
 const openIcon = document.querySelector(".menuIcon");
 
 // Mobile Hamburger
