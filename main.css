@@ -133,6 +133,9 @@ ul {
 .closeIcon {
   display: none;
 }
+.fa-x {
+display: none;
+}
 .btn-selection:hover {
   border-color: #f38181 !important;
 }
